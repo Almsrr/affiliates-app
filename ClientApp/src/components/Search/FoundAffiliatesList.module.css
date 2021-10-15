@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item div {
+  width: 250px;
+}
